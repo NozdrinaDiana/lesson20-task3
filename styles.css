@@ -7,6 +7,10 @@
   width: 100vw;
 }
 .spinner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   margin: auto;
 }
 .spinner-text {
